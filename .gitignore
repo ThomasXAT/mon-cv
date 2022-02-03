@@ -1,0 +1,4 @@
+# Liste des fichiers à ignorer lors de la sauvegarde
+
+todo.txt
+*.log
